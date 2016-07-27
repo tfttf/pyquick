@@ -1,1 +1,1 @@
-"# pyquick" 
+copy this script to C:\Users\YOURUSERNAME\AppData\Roaming\Sublime Text 2\Packages\User
