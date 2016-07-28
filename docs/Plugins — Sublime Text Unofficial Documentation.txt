@@ -1,0 +1,1 @@
+http://docs.sublimetext.info/en/latest/extensibility/plugins.html

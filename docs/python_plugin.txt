@@ -1,0 +1,2 @@
+https://clarknikdelpowell.com/blog/creating-sublime-text-3-plugins-part-1/
+http://docs.sublimetext.info/en/latest/extensibility/plugins.html
